@@ -13,10 +13,10 @@ class Main {
     float Salario = scanner.nextFloat();
 
     System.out.println("Valor do esconto INSS(%): ");
-    int INSS = scanner.nextFloat();
+    float INSS = scanner.nextFloat();
 
-    float salarioLiquido = Salario - (Salario * (INSS /100));
-    
-    System.out.println("Senhor "+ nome +" o seu salario liquido é de "+ salarioLiquido);
+    float salarioLiquido = Salario - (Salario * (INSS / 100));
+
+    System.out.println("Senhor " + nome + " o seu salario liquido é de " + salarioLiquido);
   }
 }
