@@ -8,7 +8,7 @@ ou da direita para a esquerda da mesma forma. Exemplo, as strings “radar” e
 
 import java.util.Scanner;
 
-public class Ex5 {
+public class Ex19 {
   public static String invertString(String str) {
     String invertedString = "";
     for (int i = str.length() - 1; i >= 0; i--)

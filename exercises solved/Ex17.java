@@ -21,7 +21,7 @@ ser retornado será 3+0+1+0+0+3 = 7.
 
 import java.util.Scanner;
 
-public class Ex4 {
+public class Ex17 {
 
   public static int takesLongestString(String s1, String s2) {
     return (s1.length() > s2.length() ? s2 : s1).length();

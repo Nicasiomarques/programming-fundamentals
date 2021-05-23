@@ -3,7 +3,7 @@
  * O lapso consta no incremento do contador em 3 valores mas ainda assim
  * chegamos ao fim da execução com o valor 100 no contador
  */
-public class Ex1 {
+public class Ex18 {
   public static void main(String[] args) {
     int contator = 0;
     while (contator != 100)

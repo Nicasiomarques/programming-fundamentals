@@ -5,7 +5,7 @@
  */
 import java.util.Scanner;
 
-public class Ex3 {
+public class ex13 {
   public static void ordernarCrecente(int[] arr) {
     int aux = 0;
     for (int i = 0; i < arr.length - 1; i++) {

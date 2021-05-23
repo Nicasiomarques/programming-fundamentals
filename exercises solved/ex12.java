@@ -3,7 +3,7 @@ o maior e o menor.*/
 
 import java.util.Scanner;
 
-public class Ex2 {
+public class ex12 {
   public static int menor(int[] arr) {
     int menor = arr[0];
     for (int i = 1; i < arr.length; i++)
