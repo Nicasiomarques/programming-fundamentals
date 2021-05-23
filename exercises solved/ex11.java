@@ -6,7 +6,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Ex1 {
+public class ex11 {
   public static void main(String[] args) {
     Scanner keyboard = new Scanner(System.in);
     ArrayList<Integer> numbers = new ArrayList<Integer>();

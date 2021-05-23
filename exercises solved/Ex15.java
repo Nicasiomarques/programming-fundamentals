@@ -9,7 +9,7 @@ mensagem adequada.
 
 import java.util.Scanner;
 
-public class Ex2 {
+public class Ex15 {
   public static void main(String[] args) {
     Scanner T = new Scanner(System.in);
 

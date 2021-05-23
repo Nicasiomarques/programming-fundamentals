@@ -4,7 +4,7 @@
  * quais a soma de X + Y seja igual a 100 ou igual a -100.
  */
 
-public class Ex3 {
+public class Ex16 {
   public static void main(String[] args) throws Exception {
     for (int i = -100; i <= 100; i++) {
       for (int j = -100; j <= 100; j++) {
